@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-size: 60px;
+    font-family: helvetica;
+}
+p{
+    color: white;
+    font-size: 30px;
+    font-family: helvetica;
+}
+a{
+    color: skyblue;
+    font-size: 15px;
+    font-family: helvetica;
+}                       
+
+
+
